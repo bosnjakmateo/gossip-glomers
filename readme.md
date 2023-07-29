@@ -13,3 +13,6 @@ Run `broadcast-3a` configuration
 
 ## [Challenge #3b: Multi-Node Broadcast](https://fly.io/dist-sys/3b/)
 Run `broadcast-3b` configuration
+
+## [Challenge #3c: Fault Tolerant Broadcast](https://fly.io/dist-sys/3c/)
+Run `broadcast-3c` configuration
